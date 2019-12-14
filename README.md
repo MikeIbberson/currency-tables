@@ -1,2 +1,3 @@
-# currency-tables
-Crude currency converter package
+# Currency Tables
+
+Coming soon...
